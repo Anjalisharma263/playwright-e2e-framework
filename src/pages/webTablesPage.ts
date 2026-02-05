@@ -1,4 +1,4 @@
-import { Page } from "@playwright/test";
+import { expect, Locator, Page } from "@playwright/test";
 
 export class webtable {
     constructor(private page: Page) {}
@@ -31,21 +31,37 @@ export class webtable {
         await this.page.locator('#submit').click();
     }
 
-  async getRowByEmail(email: string) {
+    async assertRowData(row:Locator,data:any){
+     await expect(row.getByRole('gridcell', { name: `${data.FirstName}`})).toBeVisible();
+     await expect(row.getByRole('gridcell', { name: `${data.LastName}`})).toBeVisible();
+     await expect(row.getByRole('gridcell', { name: `${data.Email}`})).toBeVisible();
+     await expect(row.getByRole('gridcell', { name: `${data.Age}`})).toBeVisible();
+     await expect(row.getByRole('gridcell', { name: `${data.Salary}`})).toBeVisible();
+     await expect(row.getByRole('gridcell', { name: `${data.Department}`})).toBeVisible();
+    }    
+
+   getRowByEmail(email: string) {
   return this.page.locator('[role="row"]').filter({
     has: this.page.getByText(email, { exact: true })
   });
 }
+   async clickEditBtn(email: string){
+    const row = this.getRowByEmail(email);
+   row.locator('span[title="Edit"]')
+    .click();
+
+   }
+    async clickDeleteBtn(email:string) {
+    const row = this.getRowByEmail(email);
+     row.locator('span[title="Delete"]')
+    .click();
+    }
 
     async search() {
 
     }
-    async updateDetails() {
+    
 
-    }
-    async deleteDetails() {
-
-    }
     async sortDetails() {
 
     }

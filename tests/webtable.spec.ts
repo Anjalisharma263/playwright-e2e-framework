@@ -1,5 +1,7 @@
 import {expect, test} from "@playwright/test";
 import { webtable} from "../src/pages/webTablesPage";
+import { only } from "node:test";
+import { asyncWrapProviders } from "node:async_hooks";
 
 test('verify addition of the record',async({page})=>{
  const data={
@@ -16,10 +18,34 @@ await webtableobj.clickAddBtn();
 await webtableobj.fillformData(data);
 await webtableobj.submitDetails();
 const row =await webtableobj.getRowByEmail(data.Email);
-await expect(row.getByRole('gridcell', { name: `${data.FirstName}`})).toBeVisible();
-await expect(row.getByRole('gridcell', { name: `${data.LastName}`})).toBeVisible();
-await expect(row.getByRole('gridcell', { name: `${data.Email}`})).toBeVisible();
-await expect(row.getByRole('gridcell', { name: `${data.Age}`})).toBeVisible();
-await expect(row.getByRole('gridcell', { name: `${data.Salary}`})).toBeVisible();
-await expect(row.getByRole('gridcell', { name: `${data.Department}`})).toBeVisible();
+await webtableobj.assertRowData(row,data);
+})
+
+test('verify editing an existing record',async({page})=>{
+    const data = {
+        FirstName: 'Anjaliupdated',
+        LastName: 'Sharmaupdated',
+        Email: 'myemailupdated@gmail.com',
+        Age: '22',
+        Salary: '25',
+        Department: 'IT DepartmentUpdated'
+    }
+    const webtableobj = new webtable(page);
+    await webtableobj.navigate();
+    await webtableobj.clickEditBtn('cierra@example.com');
+    await webtableobj.fillformData(data);
+    await webtableobj.submitDetails();
+    const row =await webtableobj.getRowByEmail(data.Email);
+    await webtableobj.assertRowData(row,data);
+})
+
+test('verify deletion of the record', async({page})=>{
+ const webtableobj = new webtable(page);
+  await webtableobj.navigate();
+  await webtableobj.clickDeleteBtn('cierra@example.com');
+
+  const row = webtableobj.getRowByEmail('cierra@example.com');
+  await expect(row).toHaveCount(0);
+
+   
 })
