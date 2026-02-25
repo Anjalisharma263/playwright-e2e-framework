@@ -1,0 +1,9 @@
+{
+    "expectedParentHeading": "Frames",
+    "expectedFrameHeading": "This is a sample page",
+    "expectedNestedFramePageTitle": "Nested Frames",
+    "expectedNestedFrameParentFrameTitle":"Parent frame",
+    "expectedNestedFrameChildFrameTitle": "Child Iframe",
+    "wrongHeading":"abc"
+
+}

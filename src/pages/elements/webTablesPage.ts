@@ -16,8 +16,8 @@ export class webtable {
         LastName: string;
         Email: string;
         Age: string;
-        Salary: string
-        Department: string
+        Salary: string;
+        Department: string;
     }) {
         await this.page.getByPlaceholder('First Name').fill(data.FirstName);
         await this.page.getByPlaceholder('Last Name').fill(data.LastName);
@@ -57,12 +57,12 @@ export class webtable {
     .click();
     }
 
-    async search() {
+    async search(searchTerm:string) {
+await this.page.getByPlaceholder('Type to search').fill(searchTerm)
 
-    }
-    
-
-    async sortDetails() {
-
-    }
+}
+async clickColumnHeader(text:string){
+    await this.page.locator('[role="columnheader"]').getByText(text).click();
+}
+ 
 }

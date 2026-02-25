@@ -1,19 +1,13 @@
 // @ts-check
-import { expect, test} from '@playwright/test';
+import { test, expect } from '../tests/Fixtures/testData';
 import { TextboxPage } from '../src/pages/textboxPage';
 
-test('test form fill textbox successfully', async({page})=>{
+test('test form fill textbox successfully', async({page,textBoxAddData})=>{
   const textBox = new TextboxPage(page);
-  const data={
-    fullName: 'Anjali Sharma',
-    email: 'anjali@gmail.com',
-    currentAddress: 'street 123, xyz',
-    permanentAddress: 'street 445, abc',
-  }
   await textBox.navigate();
-  await textBox.fillformData(data);
+  await textBox.fillformData(textBoxAddData);
   await textBox.submit();
-  await textBox.assertResult(data);
+  await textBox.assertResult(textBoxAddData);
 });
 
 test('should show validation error for invalid email', async({page})=>{

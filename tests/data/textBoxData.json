@@ -1,0 +1,8 @@
+{
+    "fillDataInTextbox":{
+    "fullName": "Anjali Sharma",
+    "email": "anjali@gmail.com",
+    "currentAddress": "street 123, xyz",
+    "permanentAddress": "street 445, abc"
+}
+}

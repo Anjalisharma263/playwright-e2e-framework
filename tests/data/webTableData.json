@@ -1,0 +1,18 @@
+{
+    "addRecord":{
+    "FirstName": "Cierra",
+    "LastName": "Vega",
+    "Email": "cierra@example.com",
+    "Age": "39",
+    "Salary": "10000",
+    "Department": "Insurance"
+  },
+  "updateRecord": {
+    "FirstName": "Anjali",
+    "LastName": "Sharma",
+    "Email": "anjali.updated@gmail.com",
+    "Age": "22",
+    "Salary": "25000",
+    "Department": "IT Updated"
+  }
+}

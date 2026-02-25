@@ -1,0 +1,318 @@
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Test failed"}
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Test failed"}
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"error","message":"Test Passed"}
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"error","message":"Test Passed"}
+{"level":"info","message":"Starting, validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Logger working"}
+{"level":"info","message":"Test failed"}
+{"level":"info","message":"Starting, @smoke validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Logger working"}
+{"level":"info","message":"Test failed"}
+{"level":"info","message":"Starting, @smoke validate if data is getting saved with all the valid details"}
+{"level":"info","message":"Logger working"}
+{"level":"info","message":"Test failed"}
+2026-02-19T10:15:35.134Z:[INFO]:Starting, @smoke Validate form submission with invalid mobile
+2026-02-19T10:15:42.717Z:[INFO]:Starting filling form test with invalid values
+2026-02-19T10:15:53.926Z:[INFO]:Logger working
+2026-02-19T10:15:53.927Z:[INFO]:Test failed
+2026-02-20T07:39:09.645Z:[INFO]:Starting, @smoke Validate the opening of new tab
+2026-02-20T07:39:12.221Z:[INFO]:Logger working
+2026-02-20T07:39:12.228Z:[INFO]:Test failed
+2026-02-20T07:58:54.992Z:[INFO]:Starting, @smoke Validate the opening of new tab
+2026-02-20T07:59:01.709Z:[INFO]:New tab feature test starts
+2026-02-20T07:59:45.421Z:[INFO]:New tab opened successfully
+2026-02-20T07:59:58.987Z:[INFO]:Logger working
+2026-02-20T08:00:01.030Z:[ERROR]:Test Passed
+2026-02-20T08:01:10.613Z:[INFO]:Starting, @smoke Validate the opening of a new window
+2026-02-20T08:01:31.833Z:[INFO]:New window opened successfully
+2026-02-20T08:04:08.156Z:[INFO]:Starting, @smoke Validate the opening of a new window
+2026-02-20T08:04:17.166Z:[INFO]:New window opened successfully
+2026-02-20T08:08:17.237Z:[INFO]:Starting, @smoke Validate the opening of a new window
+2026-02-20T08:08:26.553Z:[INFO]:New window opened successfully
+2026-02-20T08:09:15.310Z:[INFO]:Logger working
+2026-02-20T08:09:16.388Z:[ERROR]:Test Passed
+2026-02-20T08:10:36.010Z:[INFO]:Starting, @smoke Get message from new Window
+2026-02-20T08:10:48.114Z:[INFO]:New window opened successfully
+2026-02-20T08:10:48.454Z:[INFO]:Logger working
+2026-02-20T08:10:48.456Z:[ERROR]:Test Passed
+2026-02-21T15:58:43.916Z:[INFO]:Starting, @smoke Validate the opening of new tab
+2026-02-21T15:58:58.748Z:[INFO]:New tab feature test starts
+2026-02-21T15:58:59.469Z:[INFO]:New tab opened successfully
+2026-02-21T15:58:59.524Z:[INFO]:Logger working
+2026-02-21T15:58:59.525Z:[ERROR]:Test Passed
+2026-02-21T16:01:15.946Z:[INFO]:Starting, @smoke Validate form submission with invalid mobile
+2026-02-21T16:01:25.782Z:[INFO]:Starting filling form test with invalid values
+2026-02-21T16:01:35.680Z:[INFO]:Logger working
+2026-02-21T16:02:08.178Z:[INFO]:Starting, @smoke Validate the opening of new tab
+2026-02-21T16:02:26.021Z:[INFO]:New tab feature test starts
+2026-02-21T16:02:26.855Z:[INFO]:New tab opened successfully
+2026-02-21T16:02:26.986Z:[INFO]:Logger working
+2026-02-21T16:02:26.986Z:[ERROR]:Test Passed
+2026-02-21T16:02:27.299Z:[INFO]:Starting, @smoke Validate the opening of a new window
+2026-02-21T16:02:38.050Z:[INFO]:New window opened successfully
+2026-02-21T16:02:38.123Z:[INFO]:Logger working
+2026-02-21T16:02:38.123Z:[ERROR]:Test Passed
+2026-02-21T16:02:38.308Z:[INFO]:Starting, @smoke Get message from new Window
+2026-02-21T16:02:47.628Z:[INFO]:New window opened successfully
+2026-02-21T16:02:47.911Z:[INFO]:Logger working
+2026-02-21T16:02:47.912Z:[ERROR]:Test Passed
+2026-02-21T16:02:48.082Z:[INFO]:Starting, @smoke validate multiple tabs opening
+2026-02-21T16:02:59.867Z:[INFO]:Logger working
+2026-02-21T16:05:26.261Z:[INFO]:Starting, @smoke Validate the opening of new tab
+2026-02-21T16:05:39.290Z:[INFO]:New tab feature test starts
+2026-02-21T16:05:39.980Z:[INFO]:New tab opened successfully
+2026-02-21T16:05:40.028Z:[INFO]:Logger working
+2026-02-21T16:05:40.028Z:[ERROR]:Test Passed
+2026-02-21T16:05:40.235Z:[INFO]:Starting, @smoke Validate the opening of a new window
+2026-02-21T16:05:55.915Z:[INFO]:New window opened successfully
+2026-02-21T16:05:56.014Z:[INFO]:Logger working
+2026-02-21T16:05:56.014Z:[ERROR]:Test Passed
+2026-02-21T16:05:56.165Z:[INFO]:Starting, @smoke Get message from new Window
+2026-02-21T16:06:08.423Z:[INFO]:New window opened successfully
+2026-02-21T16:06:08.553Z:[INFO]:Logger working
+2026-02-21T16:06:08.554Z:[ERROR]:Test Passed
+2026-02-21T16:06:08.756Z:[INFO]:Starting, @smoke validate multiple tabs opening
+2026-02-21T16:06:21.116Z:[INFO]:Logger working
+2026-02-21T16:06:21.117Z:[ERROR]:Test Passed
+2026-02-21T16:22:30.874Z:[INFO]:Starting, @tab Validate the opening of new tab
+2026-02-21T16:23:01.891Z:[INFO]:Logger working
+2026-02-21T16:25:08.009Z:[INFO]:Starting, @tab Validate the opening of new tab
+2026-02-21T16:25:38.692Z:[INFO]:Logger working
+2026-02-21T16:26:53.328Z:[INFO]:Starting, @tab Validate the opening of new tab
+2026-02-21T16:27:23.812Z:[INFO]:Logger working
+2026-02-21T16:29:56.264Z:[INFO]:Starting, @tab Validate the opening of new tab
+2026-02-21T16:30:26.986Z:[INFO]:Logger working
+2026-02-21T16:31:30.018Z:[INFO]:Starting, @window Validate the opening of a new window
+2026-02-21T16:31:34.582Z:[INFO]:Logger working
+2026-02-21T16:32:13.517Z:[INFO]:Starting, @window Validate the opening of a new window
+2026-02-21T16:32:13.649Z:[INFO]:Starting, @tab Validate the opening of new tab
+2026-02-21T16:32:36.698Z:[INFO]:New window opened successfully
+2026-02-21T16:32:36.910Z:[INFO]:Logger working
+2026-02-21T16:32:36.910Z:[ERROR]:Test Passed
+2026-02-21T16:32:36.984Z:[INFO]:New tab feature test starts
+2026-02-21T16:32:37.412Z:[INFO]:Starting, @smoke Get message from new Window
+2026-02-21T16:32:38.204Z:[INFO]:New tab opened successfully
+2026-02-21T16:32:38.302Z:[INFO]:Logger working
+2026-02-21T16:32:38.302Z:[ERROR]:Test Passed
+2026-02-21T16:32:38.498Z:[INFO]:Starting, @smoke validate multiple tabs opening
+2026-02-21T16:32:53.744Z:[INFO]:New window opened successfully
+2026-02-21T16:32:53.813Z:[INFO]:Logger working
+2026-02-21T16:32:53.813Z:[ERROR]:Test Passed
+2026-02-21T16:32:53.955Z:[INFO]:Logger working
+2026-02-21T16:32:53.955Z:[ERROR]:Test Passed
+2026-02-23T08:35:39.774Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:35:46.278Z:[INFO]:Simple alert test starts
+2026-02-23T08:36:26.481Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:36:33.024Z:[INFO]:Simple alert test starts
+2026-02-23T08:38:36.604Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:38:44.508Z:[INFO]:Simple alert test starts
+2026-02-23T08:51:00.084Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:51:17.970Z:[INFO]:Simple alert test starts
+2026-02-23T08:53:13.560Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:53:20.068Z:[INFO]:Simple alert test starts
+2026-02-23T08:55:27.576Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T08:55:33.940Z:[INFO]:Simple alert test starts
+2026-02-23T08:55:57.861Z:[INFO]:Logger working
+2026-02-23T09:02:37.187Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:02:42.876Z:[INFO]:Simple alert test starts
+2026-02-23T09:03:07.491Z:[INFO]:Logger working
+2026-02-23T09:19:47.199Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:19:53.353Z:[INFO]:Simple alert test starts
+2026-02-23T09:21:32.319Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:21:38.951Z:[INFO]:Simple alert test starts
+2026-02-23T09:24:21.478Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:24:27.301Z:[INFO]:Simple alert test starts
+2026-02-23T09:24:51.830Z:[INFO]:Logger working
+2026-02-23T09:37:04.188Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:37:11.169Z:[INFO]:Simple alert test starts
+2026-02-23T09:47:32.543Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:47:38.858Z:[INFO]:Simple alert test starts
+2026-02-23T09:50:56.030Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T09:51:01.771Z:[INFO]:Simple alert test starts
+2026-02-23T10:21:34.562Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T10:21:42.329Z:[INFO]:Simple alert test starts
+2026-02-23T10:23:37.704Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T10:23:43.531Z:[INFO]:Simple alert test starts
+2026-02-23T10:24:53.246Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T10:25:01.157Z:[INFO]:Simple alert test starts
+2026-02-23T10:25:23.648Z:[INFO]:Logger working
+2026-02-23T10:57:55.693Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T10:58:02.995Z:[INFO]:Simple alert test starts
+2026-02-23T11:01:06.756Z:[INFO]:Starting, Validate simple alert appears
+2026-02-23T11:01:14.373Z:[INFO]:Simple alert test starts
+2026-02-23T12:41:41.844Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:41:49.680Z:[INFO]:delayed alert test starts
+2026-02-23T12:42:11.476Z:[INFO]:Logger working
+2026-02-23T12:42:37.729Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:42:44.770Z:[INFO]:delayed alert test starts
+2026-02-23T12:42:58.487Z:[INFO]:Logger working
+2026-02-23T12:43:37.004Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:43:42.790Z:[INFO]:delayed alert test starts
+2026-02-23T12:44:12.403Z:[INFO]:Logger working
+2026-02-23T12:48:25.235Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:48:32.794Z:[INFO]:delayed alert test starts
+2026-02-23T12:50:01.546Z:[INFO]:Logger working
+2026-02-23T12:53:53.108Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:53:59.022Z:[INFO]:delayed alert test starts
+2026-02-23T12:54:23.468Z:[INFO]:Logger working
+2026-02-23T12:54:38.891Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:54:51.205Z:[INFO]:delayed alert test starts
+2026-02-23T12:56:03.131Z:[INFO]:Logger working
+2026-02-23T12:57:58.445Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T12:58:09.663Z:[INFO]:delayed alert test starts
+2026-02-23T13:00:02.693Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T13:00:13.860Z:[INFO]:delayed alert test starts
+2026-02-23T13:02:21.115Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T13:02:27.128Z:[INFO]:delayed alert test starts
+2026-02-23T13:04:03.470Z:[INFO]:Logger working
+2026-02-23T13:08:39.107Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-23T13:08:46.374Z:[INFO]:delayed alert test starts
+2026-02-23T13:09:45.961Z:[INFO]:Logger working
+2026-02-23T13:09:47.336Z:[ERROR]:Test Passed
+2026-02-23T13:11:38.457Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-23T13:11:46.668Z:[INFO]:confirm alert test starts
+2026-02-23T13:12:47.705Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-23T13:12:54.253Z:[INFO]:confirm alert test starts
+2026-02-23T13:14:21.606Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-23T13:14:29.434Z:[INFO]:confirm alert test starts
+2026-02-23T13:14:51.948Z:[INFO]:Logger working
+2026-02-24T06:20:31.673Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:20:59.755Z:[INFO]:confirm alert test starts
+2026-02-24T06:32:25.322Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:32:56.887Z:[INFO]:Logger working
+2026-02-24T06:33:48.303Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:34:19.829Z:[INFO]:confirm alert test starts
+2026-02-24T06:42:40.758Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:43:12.023Z:[INFO]:Logger working
+2026-02-24T06:43:52.575Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:44:24.162Z:[INFO]:Logger working
+2026-02-24T06:45:38.748Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:46:09.658Z:[INFO]:Logger working
+2026-02-24T06:47:27.316Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T06:47:49.782Z:[INFO]:confirm alert test starts
+2026-02-24T07:04:32.886Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T07:05:04.510Z:[INFO]:Logger working
+2026-02-24T07:05:30.463Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T07:06:00.757Z:[INFO]:Logger working
+2026-02-24T07:07:34.758Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T07:08:05.939Z:[INFO]:Logger working
+2026-02-24T07:09:44.130Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T07:10:14.492Z:[INFO]:Logger working
+2026-02-24T07:12:00.471Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T07:12:32.229Z:[INFO]:Logger working
+2026-02-24T07:14:10.705Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T07:14:41.673Z:[INFO]:Logger working
+2026-02-24T07:18:38.316Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T07:19:09.606Z:[INFO]:Logger working
+2026-02-24T09:38:49.269Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T09:43:22.081Z:[INFO]:Simple alert test starts
+2026-02-24T09:47:47.493Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T09:47:55.457Z:[INFO]:Simple alert test starts
+2026-02-24T09:48:21.401Z:[INFO]:Logger working
+2026-02-24T09:51:19.762Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T09:51:32.473Z:[INFO]:delayed alert test starts
+2026-02-24T09:52:00.269Z:[INFO]:Logger working
+2026-02-24T09:52:24.118Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T09:52:32.938Z:[INFO]:delayed alert test starts
+2026-02-24T09:55:45.910Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T09:55:51.477Z:[INFO]:delayed alert test starts
+2026-02-24T09:55:56.576Z:[INFO]:Logger working
+2026-02-24T09:55:56.576Z:[ERROR]:Test Passed
+2026-02-24T10:01:39.880Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T10:01:50.638Z:[INFO]:Simple alert test starts
+2026-02-24T10:11:27.426Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T10:11:38.124Z:[INFO]:Simple alert test starts
+2026-02-24T10:21:01.242Z:[INFO]:Starting, Validate simple alert appears
+2026-02-24T10:21:07.931Z:[INFO]:Simple alert test starts
+2026-02-24T10:21:08.196Z:[INFO]:Logger working
+2026-02-24T10:21:08.197Z:[ERROR]:Test Passed
+2026-02-24T10:21:43.769Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T10:21:56.951Z:[INFO]:delayed alert test starts
+2026-02-24T10:22:02.036Z:[INFO]:Logger working
+2026-02-24T10:23:08.089Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T10:23:14.927Z:[INFO]:delayed alert test starts
+2026-02-24T10:23:55.156Z:[INFO]:Logger working
+2026-02-24T10:31:59.305Z:[INFO]:Starting, Validate delayed alert appears
+2026-02-24T10:32:11.391Z:[INFO]:delayed alert test starts
+2026-02-24T10:32:16.531Z:[INFO]:Logger working
+2026-02-24T10:32:16.533Z:[ERROR]:Test Passed
+2026-02-24T10:34:01.036Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T10:34:06.631Z:[INFO]:confirm alert test starts
+2026-02-24T10:34:06.939Z:[INFO]:Logger working
+2026-02-24T10:40:30.328Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T10:40:36.191Z:[INFO]:confirm alert test starts
+2026-02-24T10:41:00.742Z:[INFO]:Logger working
+2026-02-24T10:42:31.767Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T10:42:37.741Z:[INFO]:confirm alert test starts
+2026-02-24T10:44:01.113Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T10:44:07.774Z:[INFO]:confirm alert test starts
+2026-02-24T10:51:43.399Z:[INFO]:Starting, Validate confirm box alert appears
+2026-02-24T10:51:49.624Z:[INFO]:confirm alert test starts
+2026-02-24T10:58:55.027Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T10:59:00.806Z:[INFO]:Prompt Alert test starts
+2026-02-24T10:59:53.062Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:00:05.686Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:17:53.549Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:18:01.979Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:19:44.212Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:19:53.612Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:28:02.742Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:28:08.857Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:29:25.169Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:29:27.829Z:[INFO]:Logger working
+2026-02-24T11:29:46.318Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:29:51.805Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:33:47.460Z:[INFO]:Starting, Validate entered text shown
+2026-02-24T11:33:53.431Z:[INFO]:Prompt Alert test starts
+2026-02-24T11:33:53.566Z:[INFO]:Logger working
+2026-02-24T11:33:53.567Z:[ERROR]:Test Passed
+2026-02-24T12:18:29.262Z:[INFO]:Starting, Validate prompt with input: ""
+2026-02-24T12:19:00.423Z:[INFO]:Logger working
+2026-02-24T12:19:03.595Z:[INFO]:Starting, Validate prompt with input: "   "
+2026-02-24T12:19:11.883Z:[INFO]:Logger working
+2026-02-24T12:19:11.883Z:[ERROR]:Test Passed
+2026-02-24T12:19:11.979Z:[INFO]:Starting, Validate prompt with input: "@@@###"
+2026-02-24T12:19:19.530Z:[INFO]:Logger working
+2026-02-24T12:19:19.531Z:[ERROR]:Test Passed
+2026-02-24T12:19:19.704Z:[INFO]:Starting, Validate prompt with input: "123456"
+2026-02-24T12:19:26.195Z:[INFO]:Logger working
+2026-02-24T12:19:26.196Z:[ERROR]:Test Passed
+2026-02-24T12:19:26.293Z:[INFO]:Starting, Validate prompt with input: "verylongnamethatisunexpected"
+2026-02-24T12:19:33.263Z:[INFO]:Logger working
+2026-02-24T12:19:33.264Z:[ERROR]:Test Passed
+2026-02-24T13:24:54.622Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-24T13:25:02.495Z:[INFO]:Logger working
+2026-02-24T13:29:35.003Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-24T13:31:54.106Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-24T13:32:13.285Z:[INFO]:Logger working
+2026-02-24T13:32:49.742Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-24T13:32:56.752Z:[INFO]:Logger working
+2026-02-25T07:39:05.688Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-25T07:39:12.341Z:[INFO]:Logger working
+2026-02-25T07:40:54.345Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-25T07:41:03.208Z:[INFO]:Logger working
+2026-02-25T07:44:24.158Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-25T07:44:29.478Z:[INFO]:Logger working
+2026-02-25T07:47:11.180Z:[INFO]:Starting, Validate parent and iframe headings
+2026-02-25T07:47:17.867Z:[INFO]:Logger working
+2026-02-25T07:47:17.868Z:[ERROR]:Test Passed
+2026-02-25T09:52:21.932Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:52:29.112Z:[INFO]:Logger working
+2026-02-25T09:52:31.620Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:52:37.182Z:[INFO]:Logger working
+2026-02-25T09:52:40.388Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:52:45.788Z:[INFO]:Logger working
+2026-02-25T09:54:20.308Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:54:50.931Z:[INFO]:Logger working
+2026-02-25T09:54:53.582Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:55:24.429Z:[INFO]:Logger working
+2026-02-25T09:55:26.916Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T09:55:57.756Z:[INFO]:Logger working
+2026-02-25T10:00:32.193Z:[INFO]:Starting, Validate nested frame texts
+2026-02-25T10:00:40.490Z:[INFO]:Logger working
+2026-02-25T10:00:40.491Z:[ERROR]:Test Passed
